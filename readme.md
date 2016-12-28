@@ -26,7 +26,6 @@ moduleTemplate(0);
 ## Test
 
 ```
-$ npm install -g mocha
 $ npm test
 ```
 

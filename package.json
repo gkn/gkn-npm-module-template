@@ -1,0 +1,30 @@
+{
+  "name": "gkn-npm-module-template",
+  "version": "1.0.0",
+  "description": "npm module template",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gkn/gkn-npm-module-template.git"
+  },
+  "author": {
+    "name": "Geir Seierstad",
+    "email": "geir.seierstad@gmail.com",
+    "url": "axezz.com"
+  },
+  "maintainers": [
+    "Geir Seierstad <geir.seierstad@gmail.com> (axezz.com)"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "template"
+  ]
+}

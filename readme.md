@@ -30,6 +30,8 @@ $ npm install -g mocha
 $ npm test
 ```
 
+CI via Travis
+
 ## License
 
 MIT © [Geir Seierstad](http://axezz.com)
